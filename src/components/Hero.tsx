@@ -36,9 +36,10 @@ const Hero = () => {
             View My Work
             <ArrowDown className="ml-2 h-4 w-4" />
           </Button>
+          {/* <a href="../resume.pdf" />
           <Button variant="outline" size="lg" className="border-primary/20 hover:bg-primary/10 transition-all duration-300">
             Download Resume
-          </Button>
+          </Button> */}
         </div>
 
         {/* Social Links */}
