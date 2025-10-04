@@ -26,8 +26,9 @@ const Hero = () => {
 
         {/* Description */}
         <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto leading-relaxed">
-          Passionate about building scalable web applications and solving complex problems 
-          with modern technologies. 5+ years of experience in React, Node.js, and cloud architecture.
+          A tech enthusiast crafting smart, user-friendly digital experiences.
+          From front-end design to AI-powered solutions — I build with creativity and purpose.
+          Let’s turn imagination into innovation. 🚀
         </p>
 
         {/* CTA Buttons */}
